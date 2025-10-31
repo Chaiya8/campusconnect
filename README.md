@@ -18,8 +18,7 @@ Check out the app here: [https://campusconnectapp.net](https://campusconnectapp.
 
 - **Frontend:** AI-generated via Loveable.ai  
 - **Backend / Database:** Supabase  
-- **Payments:** Stripe  
-- **Hosting / Deployment:** Vercel / Netlify
+- **Payments:** Stripe 
 
 ## Notes
 
